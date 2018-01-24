@@ -1,0 +1,4 @@
+#subtractin of 2 numbers
+a=10
+b=20
+print(subtraction," a and b is %d,"c")
