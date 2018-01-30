@@ -30,10 +30,10 @@ while int(count<=100):
         print("snake bit",count)
     elif print==38:
         count=9
-        print("snake bit")
+        print("snake bit",count)
     elif count==65:
         count=46
-        print("snake bit")
+        print("snake bit",count)
     elif count==89:
         count=70
         print("snake bit",count)
